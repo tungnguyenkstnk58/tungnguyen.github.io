@@ -4,8 +4,10 @@ collection: teaching
 type: "Second-cycle course"
 permalink: /teaching/01_uppsala_IT_ACII
 venue: "Department of Information Technology, Uppsala University"
-date: 2023-01-01
+
 ---
+
+### Fall 2023, Spring 2023, Fall 2022, Spring 2022
 
 ### **About the course**
 
