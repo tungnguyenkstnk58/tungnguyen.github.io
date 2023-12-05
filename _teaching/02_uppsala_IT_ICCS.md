@@ -2,7 +2,7 @@
 title: "Introduction to Computer Control Systems"
 collection: teaching
 type: "First-cycle course"
-permalink: /teaching/01_uppsala_IT_ICSS
+permalink: /teaching/02_uppsala_IT_ICSS
 venue: "Department of Information Technology, Uppsala University"
 
 ---
