@@ -4,8 +4,7 @@ collection: teaching
 type: "Second-cycle course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Information Technology, Uppsala University"
-date: "Fall 2023"
-location: "City, Country"
+date: 2023-01-01
 ---
 
 **About the course**
