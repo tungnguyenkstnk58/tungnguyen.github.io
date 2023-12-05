@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Automatic Control II"
 collection: teaching
-type: "Undergraduate course"
+type: "Second-cycle course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Department of Information Technology, Uppsala University"
+date: "Fall 2023"
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**About the course**
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The course covers both continuous-time and discrete-time linear systems. It includes a sampling of continuous-time systems and an introduction to discrete-time systems. Stochastic processes are introduced and used as models for disturbances, and the Kalman filter is introduced as a tool for estimation and prediction. Based on this, LQ/LQG and MPC are presented as examples of optimal controllers.
