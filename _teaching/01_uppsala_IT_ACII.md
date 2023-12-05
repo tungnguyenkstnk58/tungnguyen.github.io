@@ -2,7 +2,7 @@
 title: "Automatic Control II"
 collection: teaching
 type: "Second-cycle course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/01_uppsala_IT_ACII
 venue: "Department of Information Technology, Uppsala University"
 date: 2023-01-01
 ---
