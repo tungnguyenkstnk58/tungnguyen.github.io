@@ -7,7 +7,7 @@ venue: "Department of Information Technology, Uppsala University"
 
 ---
 
-### Fall 2023, Spring 2023, Fall 2022, Spring 2022
+### **Fall 2023, Spring 2023, Fall 2022, Spring 2022**
 
 ### **About the course**
 
