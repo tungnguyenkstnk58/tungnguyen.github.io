@@ -11,7 +11,4 @@ venue: "Department of Information Technology, Uppsala University"
 
 ### **About the course**
 
-
-
-
 ### **Learning outcomes**
