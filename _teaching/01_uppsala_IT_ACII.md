@@ -7,7 +7,7 @@ venue: "Department of Information Technology, Uppsala University"
 
 ---
 
-### **Fall 2023, Spring 2023, Fall 2022, Spring 2022**
+### **Fall 2023, Spring 2023, Fall 2022, Spring 2022 with [Sérgio Pequito](https://www.spequito.com/) and [Hans Rosth](http://www.it.uu.se/katalog/hn)**
 
 ### **About the course**
 
