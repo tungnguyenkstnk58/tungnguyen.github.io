@@ -7,7 +7,7 @@ venue: "Department of Information Technology, Uppsala University"
 
 ---
 
-### **Spring 2023 (with [Niklas Wahlström](http://www.it.uu.se/katalog/nikwa778) and [Carl Andersson](http://www.it.uu.se/katalog/caran948)), Spring 2022 (with [Dave Zachariah](http://www.it.uu.se/katalog/davza513))**
+### **Spring 2024 (with [Fabio Bonassi](https://www.it.uu.se/katalog/fabbo794) and [Daniel Arnström](https://www.it.uu.se/katalog/danar782)), Spring 2023 (with [Niklas Wahlström](http://www.it.uu.se/katalog/nikwa778) and [Carl Andersson](http://www.it.uu.se/katalog/caran948)), Spring 2022 (with [Dave Zachariah](http://www.it.uu.se/katalog/davza513))**
 
 ### **About the course**
 
